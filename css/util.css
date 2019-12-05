@@ -1,0 +1,21 @@
+.clearfix::after {
+  display: block;
+  content: '';
+  clear: both;
+}
+
+.fl {
+  float: left;
+}
+
+.fr {
+  float: right;
+}
+
+.small {
+  font-size: 12px;
+}
+
+.flex-end {
+  justify-content: flex-end;
+}
