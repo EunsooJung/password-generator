@@ -1,7 +1,5 @@
 # unit03-password-generator
 
-Unit 03 JavaScript Homework: Password Generator
-
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
@@ -24,6 +22,7 @@ After downloading, simply edit the HTML, CSS and Javascript files included with 
 
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## About
 
@@ -38,7 +37,7 @@ Start Bootstrap is an open source library of free Bootstrap templates and themes
 
 * [https://eunsoojung.github.io/password-generator/](#)
 * [Link to Github](https://github.com/)
-* [Link to LinkedIn](www.linkedin.com/in/eun-soo-jung/)
+* [Link to LinkedIn](www.linkedin.com/in/eun-soo-jung/)www.linkedin.com/in/eun-soo-jung/
 
 ## License
 
