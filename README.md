@@ -35,7 +35,7 @@ Start Bootstrap is an open source library of free Bootstrap templates and themes
 
 - **Michael(Eunsoo)Jung**
 
-* [https://eunsoojung.github.io/password-generator/password-generator.html](#)
+* [https://eunsoojung.github.io/password-generator/password-generator.html](https://eunsoojung.github.io/password-generator/password-generator.html)
 * [Link to Github](https://github.com/)
 * [Link to LinkedIn](www.linkedin.com/in/eun-soo-jung/) / www.linkedin.com/in/eun-soo-jung/
 
